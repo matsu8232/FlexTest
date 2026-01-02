@@ -1,0 +1,11 @@
+.container {
+    background-color: #D6F7F8;
+    height: 50vh;
+    padding: 10px;
+}
+
+.item {
+    background-color: #5CE1E6;
+    margin: 5px;
+    font-size: 30px;
+}
