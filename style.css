@@ -3,9 +3,7 @@
     height: 50vh;
     padding: 10px;
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: baseline;
+    flex-direction: row-reverse;
 }
 
 .item {
