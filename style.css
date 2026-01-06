@@ -3,7 +3,8 @@
     height: 50vh;
     padding: 10px;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .item {
